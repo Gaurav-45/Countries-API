@@ -1,0 +1,62 @@
+.country{
+    width: 85vw;
+    display: flex;
+    flex-flow: row;
+    border: 1px solid gray;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #e8e8fb;
+    /* background-image: linear-gradient(62deg, #b7d8fa 0%, #E0C3FC 100%); */
+    box-shadow: rgba(99, 99, 99, 0.18) 0px 2px 8px 0px;
+}
+
+.flagIcon{
+    width: 50px;
+    height: 30px;
+    margin-top: 1vw;
+    padding-left: 1vw;
+}
+
+.name{
+    width: 15vw;
+    padding-left: 1vw;
+}
+
+.capital{
+    width: 7vw;
+    text-align: center;
+}
+.region{
+    /* padding-left: 2vw; */
+    width: 5vw;
+    text-align: center;
+}
+
+.subregion{
+    width: 10vw;
+    text-align: center;
+}
+
+.population{
+    width: 10vw;
+    text-align: center;
+}
+
+.borders{
+    width: 15vw;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+    text-align: center;
+}
+
+.languages{
+    width: 8vw;
+    margin-left: 3vw;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+    text-align: center;
+}
+
